@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mickey7Soul
-- 👀 I’m interested in all of type of Technology, NFT's, Car's.
-- 🌱 I’m currently learning Python and Java Script
+- 👀 I’m interested in all of type of Technology, programming language's, Car's.
+- 🌱 I’m currently learning HTML, CSS and Java Script
 - 💞️ I’m looking to collaborate on some one like's me, who new here. 
 - 📫 How to reach me mega.07basket@icloud.com
