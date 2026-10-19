@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Mickey7Soul
+- 👋 Hi, I’m Mike
 - 👀 I’m interested in all of type of Technology, programming language's, Car's.
-- 🌱 I’m currently learning HTML, CSS and Java Script
-- 💞️ I’m looking to collaborate on some one like's me, who new here. 
+- 🌱 I’m currently learning HTML, CSS, Java.
 - 📫 How to reach me mega.07basket@icloud.com
